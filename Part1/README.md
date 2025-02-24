@@ -85,7 +85,7 @@ Ici, nous créons manuellement les instances et les relions (DAO et Metier).
         }
     }
 
-![Screenshot de l’exécution par instanciation statique](images\image1.png)
+![Screenshot de l’exécution par instanciation statique](images/image1.png)
 
 
 ---
@@ -121,7 +121,7 @@ Avec cette approche, on lit le nom des classes à instancier depuis un fichier (
         }
     }
 
-![Screenshot de l’exécution par instanciation dynamique](images\image2.png)
+![Screenshot de l’exécution par instanciation dynamique](images/image2.png)
 
 
 ---
